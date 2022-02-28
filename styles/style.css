@@ -1,6 +1,7 @@
 html, body {
     background-color:darkgray;
     height: 100%;
+    font-family: Merriweather;
 }
 body {
     background-color: black;
@@ -9,6 +10,9 @@ body {
     min-height: 100%;
     margin: 0 auto;
     padding: 20px;
+}
+image {
+    display: block;
 }
 h1, h2, p, ul, ol, li, a {
     color: cornsilk;
